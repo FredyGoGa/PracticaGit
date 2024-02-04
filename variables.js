@@ -34,7 +34,7 @@ let persona = {
     edad: 25,
     esEstudiante: true
 };
-
+console.log(persona.nombre)
 // Función
 function sumar(a, b) {
     return a + b;
